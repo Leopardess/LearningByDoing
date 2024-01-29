@@ -1,5 +1,6 @@
 # LearningByDoing
 紀錄一些工作上遇到的困難問題及其解法。
+Record some hardcore problems' solutions I met when doing my job.
 
 C# AutoSize Multiple Column Header
 -----------------------------------------------------------------------
@@ -11,7 +12,6 @@ C# AutoSize Multiple Column Header
 5. 子表頭無文字，或文字長度較主表頭短時，參照主表頭文字長度定義欄寬；其他時候以子表頭文字長度為主
 
 -----------------------------------------------------------------------
-Record some hardcore problems' solutions I met when doing my job.
 This project makes me need to draw a Multiple Column Header using Rectangle. Includes:
 1. Main and Sub Column Header
 2. Merged Multiple Column Main Header
