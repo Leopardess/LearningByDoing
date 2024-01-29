@@ -244,9 +244,6 @@ namespace AutoSizeMultipleColumnHeader
                 this.dataGridView1.Rows.Add(row);
             }
 
-            /*this.dataGridView1.DataSource = dsDetail;
-            this.dataGridView1.DataMember = dsDetail.Tables[0].ToString();*/
-
             this.dataGridView1.AllowUserToAddRows = false;
             this.dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
             this.dataGridView1.ColumnHeadersHeight = defaultColumnHeadersHeight;
